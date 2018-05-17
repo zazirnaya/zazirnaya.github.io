@@ -48,7 +48,7 @@ a {
 body {
   background-image: url('../img/pattern.png');
   background-repeat: repeat;
-  background-color: #5b5efa;
+  background-color: #7a7aa0;
 }
 a {
   -webkit-transition: all 0.35s;
@@ -72,7 +72,7 @@ sup {
 }
 .main-container {
   margin-top: 61px;
-  border: 25px solid #fff21e;
+  border: 25px solid #d8d7c9;
   background-color: #fff;
 }
 .main-container .offset-lt {
